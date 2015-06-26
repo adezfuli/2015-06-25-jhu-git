@@ -1,1 +1,3 @@
-def f_k
+def f_k(temp)
+	return temp+273.15
+	
